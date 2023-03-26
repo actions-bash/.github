@@ -1,0 +1,6 @@
+{
+    "name": "Test Action",
+    "description": "Test GitHub Action for this repository.",
+    "categories": ["YAML"],
+    "filePatterns": ["action.yml"]
+}

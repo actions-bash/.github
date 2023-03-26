@@ -1,6 +1,6 @@
-# Bash Actions
-
 **Bash Actions** is a collection of GitHub Actions for Bourne Again SHell (Bash).
+
+Our mission is to make it easy for everyone to use Bash in custom actions.
 
 ## Getting started
 
